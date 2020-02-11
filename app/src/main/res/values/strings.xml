@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="enter_the_amount_you_want_to_convert">Enter the amount you want to convert</string>
+    <string name="eur_to_pln">EUR to PLN</string>
+    <string name="enter_amount">enter amount</string>
+</resources>
